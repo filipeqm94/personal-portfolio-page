@@ -43,7 +43,8 @@ p {
 hr {
   width: 5%;
   margin: 50px auto;
-  border: 6px dotted #233142;
+  border: 6px dotted #090c0e;
+  background-color: transparent;
   border-bottom: none;
 }
 
