@@ -186,6 +186,10 @@ a.btn-fm:hover {
   .contact-message {
     width: 80%;
   }
+  .management-skill,
+  .code-skill {
+    float: none;
+  }
   .projects-section .projects {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
